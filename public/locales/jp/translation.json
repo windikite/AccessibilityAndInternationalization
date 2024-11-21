@@ -1,0 +1,29 @@
+{
+    "general": {
+        "dashboard": " ダッシュボード",
+        "userPostFilterButton": "ユーザーの投稿一覧",
+        "editButton": " エディット ",
+        "deleteButton": "消して",
+        "logoutMessage": "ログアウトしている...",
+        "loadingMessage": "搭載している",
+        "errorMessage": "誤り",
+        "postMessage": "書いた",
+        "errorFetchMessage": "データ誤り...",
+        "deletedMessage": "消した!"
+        
+    },
+    "form": {
+        "usernameLabel": " ハンドル ",
+        "usernamePlaceholder": " ハンドルは入れる",
+        "editPostLabel": " エディット",
+        "createPostLabel": "書いて",
+        "titleLabel": "タイトル",
+        "bodyLabel": "中身",
+        "loginButton": "ログインする",
+        "logoutButton": "ログアウトする",
+        "saveButton": "保存する",
+        "postButton": "投稿する",
+        "updatingMessage": "更新している...",
+        "postingMessage": "投稿している..."
+    }
+}

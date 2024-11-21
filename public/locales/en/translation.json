@@ -1,0 +1,29 @@
+{
+    "general": {
+        "dashboard": "Dashboard",
+        "userPostFilterButton": "Your Posts",
+        "editButton": "Edit",
+        "deleteButton": "Delete",
+        "logoutMessage": "Logging out...",
+        "loadingMessage": "Loading...",
+        "errorMessage": "An error occured:",
+        "postMessage": "Post added successfully!",
+        "errorFetchMessage": "Error fetching data...",
+        "deletedMessage": "Post deleted!"
+        
+    },
+    "form": {
+        "usernameLabel": "Username",
+        "usernamePlaceholder": "Enter username",
+        "editPostLabel": "Edit Post",
+        "createPostLabel": "Create Post",
+        "titleLabel": "Title",
+        "bodyLabel": "Body",
+        "loginButton": "Log In",
+        "logoutButton": "Log Out",
+        "saveButton": "Save",
+        "postButton": "Post",
+        "updatingMessage": "Updating...",
+        "postingMessage": "Posting..."
+    }
+}
